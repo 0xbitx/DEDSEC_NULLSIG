@@ -9,6 +9,16 @@
 ## DESCRIPTION
 NullSig is a powerful payload transformation that takes standard Metasploit Linux payloads and converts them into highly evasive, undetectable binaries. It achieves this by removing known static signatures, applying strong encryption techniques, modifying the executable structure, and incorporating advanced anti-virus evasion tactics. NullSig not only disrupts traditional detection methods but also enhances payload stealth by introducing randomized obfuscation and in-memory execution strategies, making it a critical tool for red team operations, penetration testing, and advanced security research.
 
+## Virustotal 
+<h3 align="center"> Default Payload vs NullSig Payload </h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/485ccba6-7563-4a3d-b0d5-b4189459b3d7" width="400" height="400">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/039cecbf-e871-46de-baee-9c9ba895f1c2" width="400" height="400">
+</p>
+
+
 ## FEATURES
   * Signature removal
   * Full encryption
