@@ -21,7 +21,7 @@ NullSig is a powerful payload transformation that takes standard Metasploit Linu
 
 ## FEATURES
   * Signature removal
-  * Full encryption
+  * Full encrypted
   * In-memory execution
   * Anti-forensics techniques
   * Broken ELF header manipulation
